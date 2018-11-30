@@ -1,0 +1,17 @@
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.xml
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbprojAssemblyReference.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Resources.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.GenerateResource.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.xml
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\Debug\Oracle.DataAccess.dll
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.vbproj.CopyComplete
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.AddUserForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.EditDeleteForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.ListUserForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.LoginForm.resources

@@ -1,0 +1,17 @@
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\x86\Debug\WindowsApp.exe.config
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\x86\Debug\WindowsApp.exe
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\x86\Debug\WindowsApp.pdb
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\x86\Debug\WindowsApp.xml
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\bin\x86\Debug\Oracle.DataAccess.dll
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.vbprojAssemblyReference.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.Resources.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.vbproj.GenerateResource.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.vbproj.CoreCompileInputs.cache
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.vbproj.CopyComplete
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.exe
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.xml
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.pdb
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.ListUserForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.LoginForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.EditDeleteForm.resources
+C:\Users\nguyenvuhoangnam\Desktop\Training\vb.net\WindowsApp\WindowsApp\WindowsApp\obj\x86\Debug\WindowsApp.AddUserForm.resources
